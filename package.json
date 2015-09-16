@@ -1,0 +1,21 @@
+{
+  "name": "notifly",
+  "version": "0.0.0",
+  "description": "Node.js server for sending push notifications to Android and iOS devices",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grofers/notifly.git"
+  },
+  "keywords": [
+    "notifly",
+    "notifications",
+    "server"
+  ],
+  "author": "Chitharanjan Das <chitharanjan.das@grofers.com>, Vishesh Jindal <vishesh.jindal@grofers.com>, Avichal Pandey <avichal@grofers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grofers/notifly/issues"
+  },
+  "homepage": "https://github.com/grofers/notifly#readme"
+}
